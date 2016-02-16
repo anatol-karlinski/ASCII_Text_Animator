@@ -1,0 +1,15 @@
+html{
+	background-color: white;
+}
+
+table, th, td {
+	border: 0px solid black;
+	color: white;
+}
+
+table td > div {
+	/*font-family: Georgia, Times, 'Times New Roman', serif;*/
+    /* overflow: show; */
+    height: 12px;
+	width: 5px;
+}

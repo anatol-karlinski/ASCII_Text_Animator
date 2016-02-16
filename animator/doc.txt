@@ -1,0 +1,38 @@
+########## ASCII ANIMATOR #########
+
+Funkcja: transitionAnimation (tabela, kierunek, ilość stopni, szybkość, paleta kolorów, zestaw znaków)
+
+tabela:
+	nazwa teabeli do animacji
+
+kierunek: 
+	up 
+	down 
+	left 
+	right
+	
+ilość stopni:
+	od 1 do 10
+
+szybkość:
+	ilosć milisekund między klatkami animacji
+
+paleta kolorów:
+	gray
+	gray-inverted
+	gray-light
+	gray-inverted-dark
+	fab
+	
+zestaw znaków:
+	Solid - ["█"]
+	ExtendedSet1 - ["█", "▓", "▒", "░", "▄", "▀"]
+	ExtendedSet2 - ["║", "║", "╔", "╗", "╒", "╕", "╓", "╕", "╚", "╝", "═", "╬", "╫", "╪"]
+	NumbersSet - ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+	BinarySet - ["0", "1"]
+	LettersSmall - ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u", "w", "x", "y", "z"]
+	LettersBig - ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "R", "S", "T", "U", "W", "X", "Y", "Z"]
+	
+	
+BUFFER:
+	] [

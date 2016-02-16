@@ -1,0 +1,11 @@
+table, th, td {
+	border:0px solid black;
+	color: black;
+}
+
+table td > div {
+    overflow: show;
+    height: 4px;
+	width: 4px;
+    font-size: 10px;
+}
